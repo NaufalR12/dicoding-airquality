@@ -6,7 +6,7 @@
 
 ## Streamlit Cloud :
 
-Streamlit Cloud : [Bike Sharing Dashboard](https://dicoding-airquality-naufal-rafid.streamlit.app/)
+Streamlit Cloud : (https://dicoding-airquality-naufal-rafid.streamlit.app/)
 
 ![Air Quality Dashboard Preview](images/dashboard.png)
 
